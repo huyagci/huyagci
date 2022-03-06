@@ -10,7 +10,7 @@ Hi, my name is Umut and I'm currently learning front-end technologies.
 
 ## :bicyclist: My Journey
 
-When I decided to change my career in 2020, I decided to learn UI/UX design and front-end frameworks but I was feeling stuck around the same point and couldn't progress much in the last year. I was learning the language alright but something was keeping me from continuing. When I've found [Patika.dev](https://www.patika.dev/) in December 2021 they showed me what I was missing and helped me to break this cycle with projects and their interactive path. I am grateful to be a part of this beautiful community.
+When I decided to change my career in 2020, I decided to learn UI/UX design and front-end technologies but I was feeling stuck around the same point and couldn't progress much in the last year. I was learning the language alright but something was keeping me from continuing. When I've found [Patika.dev](https://www.patika.dev/) in December 2021 they showed me what I was missing and helped me to break this cycle with projects and their interactive path. I am grateful to be a part of this beautiful community.
 
 ## :email: Contact
 
