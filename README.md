@@ -2,7 +2,7 @@
 
 Hi, my name is Umut and I'm currently learning DevOps technologies.
 
-> ##### *Toolbox* &nbsp;&nbsp;&nbsp; ![Linux][#linux] ![Ubuntu][#ubuntu] ![Slack][#slack] ![Jira][#jira-software] ![Git][#git] ![Github][#github]
+> ##### *Toolbox* &nbsp;&nbsp;&nbsp; ![Linux][#linux] ![Ubuntu][#Ubuntu] ![VSCode][#VSCode] ![Slack][#slack] ![Jira][#jira-software] ![Git][#git] ![Github][#github]
 >
 > ##### *Frontend* &nbsp;&nbsp; ![Markdown][#Markdown] ![HTML][#HTML] ![CSS][#CSS] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]
 >
@@ -52,12 +52,12 @@ You can reach me on these platforms. :point_down:
 [#jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white
 [#aws]: https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
 [#docker]: https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white
-[#kubernetes]: https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white
+[#kubernetes]: https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white
 [#ansible]: https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white
 
 [#bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white
 [#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
-[#ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white
+[#ubuntu]: https://img.shields.io/badge/Ubuntu-3D185E?style=flat&logo=ubuntu&logoColor=orange
 [#vscode]: https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white
 
 [#adobexd]: https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6
