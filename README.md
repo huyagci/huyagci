@@ -1,12 +1,14 @@
 ## :necktie: About Me
 
-Hi, my name is Umut and I'm currently learning front-end technologies.
+Hi, my name is Umut and I'm currently learning DevOps technologies.
 
-> ##### *Toolbox* &nbsp;&nbsp;&nbsp; ![Markdown][#markdown] ![HTML5][#html] ![CSS3][#css] ![Bootstrap][#bootstrap]
+> ##### *Toolbox* &nbsp;&nbsp;&nbsp; ![Linux][#linux] ![Ubuntu][#ubuntu] ![Slack][#slack] ![Jira][#jira-software] ![Git][#git] ![Github][#github]
 >
-> ##### *Learning* &nbsp; ![JavaScript][#javascript] ![Adobe XD][#adobexd]
+> ##### *Frontend* &nbsp;&nbsp; ![Markdown][#Markdown] ![HTML][#HTML] ![CSS][#CSS] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]
 >
-> ##### *Up Next* &nbsp;&nbsp; ![TypeScript][#typescript] ![React][#react] ![Node.js][#nodejs]
+> ##### *Learning* &nbsp; ![Bash][#bash] ![Docker][#docker]
+>
+> ##### *Up Next* &nbsp;&nbsp; ![Jenkins][#jenkins] ![Aws][#aws] ![Kubernetes][#kubernetes] ![Ansible][#ansible] ![Go][#go]
 
 ## :bicyclist: My Journey
 
@@ -22,7 +24,6 @@ You can reach me on these platforms. :point_down:
 <!--
 ## :pushpin: Other Platforms
 
-[![Patika.dev][#patika]][@patika]
 [![HackerRank][#HACKERRANK]][@hackerrank]
 [![Coderbyte][#CODERBYTE]][@coderbyte]
 [![Leetcode][#LEETCODE]][@leetcode]
@@ -31,15 +32,36 @@ You can reach me on these platforms. :point_down:
 <!-- BADGE INDEX -->
 
 <!-- TECH -->
+[#git]: https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white
+[#github]: https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white
+[#gitlab]: https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white
+
 [#markdown]: https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white
 [#html]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [#css]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
 [#bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white
-[#adobexd]: https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6
 [#javascript]: https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
 [#typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white
 [#react]: https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [#nodejs]: https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+[#go]: https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
+
+[#jira-software]: https://img.shields.io/badge/Jira%20Software-0052CC?style=flat&logo=JiraSoftware&logoColor=white
+[#slack]: https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white
+
+[#jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white
+[#aws]: https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
+[#docker]: https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white
+[#kubernetes]: https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white
+[#ansible]: https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white
+
+[#bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white
+[#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
+[#ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white
+[#vscode]: https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white
+
+[#adobexd]: https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6
+[#photoshop]: https://img.shields.io/badge/Adobe%20PS-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black
 
 <!-- SOCIAL -->
 [#linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
