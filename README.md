@@ -8,7 +8,7 @@ Hi, my name is Umut and I'm currently learning DevOps technologies.
 >
 > ##### *Learning* &nbsp; ![Bash][#bash] ![Docker][#docker]
 >
-> ##### *Up Next* &nbsp;&nbsp; ![Jenkins][#jenkins] ![Aws][#aws] ![Kubernetes][#kubernetes] ![Ansible][#ansible] ![Go][#go]
+> ##### *Up Next* &nbsp;&nbsp; ![Jenkins][#jenkins] ![AWS][#aws] ![Kubernetes][#kubernetes] ![Ansible][#ansible] ![Go][#go]
 
 ## :bicyclist: My Journey
 
@@ -19,23 +19,22 @@ When I decided to change my career in 2020, I decided to learn UI/UX design and 
 You can reach me on these platforms. :point_down:
 
 [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord] [![Patika.dev][#patika]][@patika]
-<!-- [![Stack Overflow][#STACKOVERFLOW]][@stackoverflow] -->
 
-<!--
-## :pushpin: Other Platforms
+## :pushpin: Other Profiles
 
-[![HackerRank][#HACKERRANK]][@hackerrank]
-[![Coderbyte][#CODERBYTE]][@coderbyte]
-[![Leetcode][#LEETCODE]][@leetcode]
--->
+[![Docker Hub][#dockerhub]][@dockerhub]
+[![HackerRank][#hackerrank]][@hackerrank]
+
+
+
+
 
 <!-- BADGE INDEX -->
 
-<!-- TECH -->
+<!-- TECHS -->
 [#git]: https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white
 [#github]: https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white
 [#gitlab]: https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white
-
 [#markdown]: https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white
 [#html]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [#css]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
@@ -46,6 +45,11 @@ You can reach me on these platforms. :point_down:
 [#nodejs]: https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
 [#go]: https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
 
+[#bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white
+[#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
+[#ubuntu]: https://img.shields.io/badge/Ubuntu-3D185E?style=flat&logo=ubuntu&logoColor=orange
+[#vscode]: https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white
+
 [#jira-software]: https://img.shields.io/badge/Jira%20Software-0052CC?style=flat&logo=JiraSoftware&logoColor=white
 [#slack]: https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white
 
@@ -55,41 +59,42 @@ You can reach me on these platforms. :point_down:
 [#kubernetes]: https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white
 [#ansible]: https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white
 
-[#bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white
-[#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
-[#ubuntu]: https://img.shields.io/badge/Ubuntu-3D185E?style=flat&logo=ubuntu&logoColor=orange
-[#vscode]: https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white
-
 [#adobexd]: https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6
 [#photoshop]: https://img.shields.io/badge/Adobe%20PS-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black
 
-<!-- SOCIAL -->
+<!-- SOCIALS -->
 [#linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
 [#gmail]: https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white
 [#discord]: https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white
 [#patika]: https://img.shields.io/badge/Patika.dev-FABE55?style=flat
 [#stackoverflow]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white
 
-<!-- CHALLENGE -->
+<!-- OTHERS -->
+[#dockerhub]: https://img.shields.io/badge/Docker%20Hub-294356?style=flat&logo=docker&logoColor=white
 [#hackerrank]: https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white
 [#coderbyte]: https://img.shields.io/badge/-Coderbyte-1BC3CA?style=flat
 [#leetcode]: https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black
 
 <!-- URL INDEX -->
 
-<!-- SOCIAL -->
+<!-- SOCIALS -->
 [@linkedin]: https://www.linkedin.com/in/hasanumutyagci/
 [@gmail]: mailto:hasanumutyagci@gmail.com "Send me an email!"
 [@discord]: https://discordapp.com/users/336617881985089537 "Contact me on Discord"
 [@patika]: https://app.patika.dev/referral/huyagci
 [@stackoverflow]: https://stackoverflow.com/users/18004051/huyagci
 
-<!-- CHALLENGE -->
+<!-- OTHERS-->
+[@dockerhub]: https://hub.docker.com/u/huyagci
 [@hackerrank]: https://www.hackerrank.com/huyagci
 [@coderbyte]: https://coderbyte.com/profile/huyagci
 [@leetcode]: https://leetcode.com/huyagci
 
-<!-- Table Designs
+
+
+
+
+<!-- Table Design
 
 ###### Toolbox ![Markdown][#markdown] ![HTML5][#html] ![CSS3][#css] ![Bootstrap][#bootstrap]
 ###### Learning ![Javascript][#javascript] ![Adobe XD][#adobexd]
