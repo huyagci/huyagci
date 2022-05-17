@@ -31,7 +31,7 @@ You can reach me on these platforms. :point_down:
 
 <!-- BADGE INDEX -->
 
-<!-- TECHS -->
+<!-- TECH -->
 [#git]: https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white
 [#github]: https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white
 [#gitlab]: https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white
@@ -58,6 +58,7 @@ You can reach me on these platforms. :point_down:
 [#docker]: https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white
 [#kubernetes]: https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white
 [#ansible]: https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white
+[#terraform]: https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white
 
 [#adobexd]: https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6
 [#photoshop]: https://img.shields.io/badge/Adobe%20PS-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black
