@@ -82,7 +82,7 @@ You can reach me on these platforms. :point_down:
 [@linkedin]: https://www.linkedin.com/in/hasanumutyagci/
 [@gmail]: mailto:hasanumutyagci@gmail.com "Send me an email!"
 [@discord]: https://discordapp.com/users/336617881985089537 "Contact me on Discord"
-[@patika]: https://app.patika.dev/referral/huyagci
+[@patika]: https://app.patika.dev/huyagci
 [@stackoverflow]: https://stackoverflow.com/users/18004051/huyagci
 
 <!-- OTHERS-->
