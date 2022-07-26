@@ -88,7 +88,7 @@ You can reach me on these platforms. :point_down:
 [@coderbyte]: https://coderbyte.com/profile/huyagci
 [@leetcode]: https://leetcode.com/huyagci
 
-## Table Design
+<!-- ## Table Design
 
 |   Type   | Technologies                                                                                                                                        |
 | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,4 +96,4 @@ You can reach me on these platforms. :point_down:
 | Frontend | ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]                                                                     |
 |  DevOps  | ![Bash][#bash] ![GH-Actions][#gh-actions] ![GitlabCI/CD][#gitlabcicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant] |
 | Learning | ![Kubernetes][#kubernetes] ![Helm][#helm] ![PostgresSQL][#postgresql]                                                                               |
-| Up Next  | ![Ansible][#ansible] ![Jenkins][#jenkins] ![Prometheus][#prometheus] ![Grafana][#grafana] ![Go][#go]                                                |
+| Up Next  | ![Ansible][#ansible] ![Jenkins][#jenkins] ![Prometheus][#prometheus] ![Grafana][#grafana] ![Go][#go]                                                | -->
