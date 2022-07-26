@@ -14,7 +14,7 @@ Hi, my name is Umut and I'm currently learning DevOps technologies.
 
 ## :bicyclist: My Journey
 
-When I decided to change my career in 2020, I decided to learn UI/UX design and front-end technologies but I was feeling stuck around the same point and couldn't progress much in the last year. I was learning the language alright but something was keeping me from continuing. When I've found [Patika.dev](https://www.patika.dev/) in December 2021 they showed me what I was missing and helped me to break this cycle with projects and their interactive path. I am grateful to be a part of this beautiful community.
+Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in December 2021, I started with Front-end development and built foundational projects which you can discover on my Github profile. I am building automation and infrastructure for my previous projects and people around me along with training myself on AWS services.
 
 ## :email: Contact
 
