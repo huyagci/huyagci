@@ -14,13 +14,13 @@ Hi, my name is Umut and I'm currently learning DevOps technologies.
 
 ## :bicyclist: My Journey
 
-Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in December 2021, I started with Front-end development and built foundational projects which you can discover on my Github profile. I am building automation and infrastructure for my previous projects and people around me along with training myself on AWS services.
+Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in December 2021, I started with Frontend development and built foundational projects which you can discover on my Github profile. Currently, I am building automation and infrastructure for my previous projects and people around me along with training myself on AWS services.
 
 ## :email: Contact
 
-You can reach me on these platforms. :point_down:
+You can reach me on these platforms.
 
-[![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord] [![Patika.dev][#patika]][@patika]
+[![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord]
 
 ## :pushpin: Other Profiles
 
@@ -68,7 +68,6 @@ You can reach me on these platforms. :point_down:
 [#linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
 [#gmail]: https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white
 [#discord]: https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white
-[#patika]: https://img.shields.io/badge/Patika.dev-FABE55?style=flat
 [#stackoverflow]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white
 [#dockerhub]: https://img.shields.io/badge/Docker%20Hub-294356?style=flat&logo=docker&logoColor=white
 [#hackerrank]: https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white
@@ -80,7 +79,6 @@ You can reach me on these platforms. :point_down:
 [@linkedin]: https://www.linkedin.com/in/hasanumutyagci/
 [@gmail]: mailto:hasanumutyagci@gmail.com "Send me an email!"
 [@discord]: https://discordapp.com/users/336617881985089537 "Contact me on Discord"
-[@patika]: https://app.patika.dev/huyagci
 [@gitlab]: https://gitlab.com/huyagci
 [@stackoverflow]: https://stackoverflow.com/users/18004051/huyagci
 [@dockerhub]: https://hub.docker.com/u/huyagci
@@ -88,7 +86,9 @@ You can reach me on these platforms. :point_down:
 [@coderbyte]: https://coderbyte.com/profile/huyagci
 [@leetcode]: https://leetcode.com/huyagci
 
-<!-- ## Table Design
+<!-- 
+
+## Aux Design
 
 |   Type   | Technologies                                                                                                                                        |
 | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,4 +96,6 @@ You can reach me on these platforms. :point_down:
 | Frontend | ![HTML][#html] ![CSS][#css] ![Bootstrap][#bootstrap] ![JavaScript][#javascript]                                                                     |
 |  DevOps  | ![Bash][#bash] ![GH-Actions][#gh-actions] ![GitlabCI/CD][#gitlabcicd] ![Docker][#docker] ![Terraform][#terraform] ![AWS][#aws] ![Vagrant][#vagrant] |
 | Learning | ![Kubernetes][#kubernetes] ![Helm][#helm] ![PostgresSQL][#postgresql]                                                                               |
-| Up Next  | ![Ansible][#ansible] ![Jenkins][#jenkins] ![Prometheus][#prometheus] ![Grafana][#grafana] ![Go][#go]                                                | -->
+| Up Next  | ![Ansible][#ansible] ![Jenkins][#jenkins] ![Prometheus][#prometheus] ![Grafana][#grafana] ![Go][#go]                                                |
+
+-->
